@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moenguyenx
-- 🌱 I’m currently a student at Hanoi University of Science and Technology
+- 🌱 I graduated from Hanoi University of Science and Technology
 - 💞️ I’m looking to collaborate on Embedded and IoT Projects
 - 📫 How to reach me: [MoeNguyenx](https://www.facebook.com/moenguyenx)
 - 😄 Pronouns: He/His
