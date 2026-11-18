@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moenguyenx
 - 🌱 I graduated from Hanoi University of Science and Technology
-- 💞️ I’m looking to collaborate on Embedded and IoT Projects
+- 🌱 And currently pursuing a MSc at University of Greenwich, UK 
 - 📫 How to reach me: [MoeNguyenx](https://www.facebook.com/moenguyenx)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I major in Electronics Engineering but passionate about doing Businesses :)
